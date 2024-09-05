@@ -1,0 +1,6 @@
+asyncio
+aiohttp
+datetime
+colorama
+packaging
+pystyle
